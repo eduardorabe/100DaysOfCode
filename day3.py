@@ -1,5 +1,5 @@
 # 100 Days of Code
-# DAY 1
+# DAY 3
 # Created by eduardorabe
 # Treasure Island
 

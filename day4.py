@@ -1,5 +1,5 @@
 # 100 Days of Code
-# DAY 1
+# DAY 4
 # Created by eduardorabe
 # Rock, Paper and Scissors
 
