@@ -1,5 +1,5 @@
 # 100 Days of Code
-# DAY 4
+# DAY 5
 # Created by eduardorabe
 # Password Generator Project
 
